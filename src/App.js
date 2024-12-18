@@ -6,6 +6,8 @@ import Header from './Component/Header/Header'
 import Mark from './Component/Markquee/Mark'
 import Services from './Pages/Services'
 import Contact from './Pages/Contact'
+import './style.css'
+import './resStyle.css'
 
 const App = () => {
   return (
